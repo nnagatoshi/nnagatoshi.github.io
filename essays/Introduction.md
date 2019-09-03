@@ -7,7 +7,7 @@ date: 2019-09-02
 labels:
   - About me
 ---
-Hi! may name is Nicole Nagatpshi and I am a forth year at Univeristy of Hawaii at Manoa. I am currently pursuing a BA Managment Information Systems at Shidler and a Minor in Information Computer Systems. I am 20 years old and I work as a Teaching Assistant for ICS 101. 
+Hi! may name is Nicole Nagatoshi and I am a forth year at Univeristy of Hawaii at Manoa. I am currently pursuing a BA Managment Information Systems at Shidler and a Minor in Information Computer Systems. I am 20 years old and I work as a Teaching Assistant for ICS 101. 
 
 When I first got into college I wanted to be a Music Therapist so my Major going into college was Music and Psycology. After taking a lot of classes I relized that it was not for me so then I switched my major to Psycology, then again to Accounting and finally to MIS and more recently, a minor in ICS. I would have never decide to work in computuers if it was not for my boss, Dr. Micheal Brian Ogawa, and all of my lovely co-workers. I always wanted to do something in Buissness but I also really wanted to do something in tech and to help people. 
 
