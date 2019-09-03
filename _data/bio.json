@@ -1,83 +1,72 @@
 {
-  "basics": {
-    "name": "Nicole Nagatoshi",
-    "label": "Student",
-    "picture": "https://nmnag16.github.io/images/IMG_0742.jpeg",
-    "email": "nmnag@hawaii.edu",
-    "phone": "",
-    "website": "https://nmnag16.github.io",
-    "summary": "I am a student at UH Manoa, studing MIS and a minor in ICS. I expect to graduate in ether Fall 2021 or Spring 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96744",
-      "city": "Kaneohe",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "nmnag16",
-        "url": "http://github.com/nmnag16"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Music",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "Coding",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Swimming",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Windows",
-      "level": "",
-      "keywords": [
-        "Word",
-        "PowerPoint",
-        "Excel",
-        "Photosjop",
-       
-      ]
-    },
-    
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS and Minor ICS (expected Spring, 2021)",
-      "studyType": "BA",
-      "startDate": "2016-08-20",
-      "endDate": "",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Universoty of Hawaii at Manoa ICS Department",
-      "position": "Teaching Assistant",
-      "website": "",
-      "startDate": "2015-01-03",
-      "endDate": "Present",
-      "summary": "Taught Student to be proficient in Microsoft Office, Photoshop, SSH and Dreamweaver",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
+	"basics": {
+		"name": "Nicole Nagatoshi",
+		"label": "Student",
+		"picture": "https://nmnag16.github.io/images/IMG_0742.jpeg",
+		"email": "nmnag@hawaii.edu",
+		"phone": "",
+		"website": "https://nmnag16.github.io",
+		"summary": "I am a student at UH Manoa, studing MIS and a minor in ICS. I expect to graduate in ether Fall 2021 or Spring 2022.",
+		"location": {
+			"address": "",
+			"postalCode": "96744",
+			"city": "Kaneohe",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+			"network": "github",
+			"username": "nmnag16",
+			"url": "http://github.com/nmnag16"
+		}]
+	},
+	"interests": [{
+			"name": "Music",
+			"keywords": [
+				"Arduino",
+				"TI MSP430"
+			]
+		},
+		{
+			"name": "Coding",
+			"keywords": []
+		},
+		{
+			"name": "Swimming",
+			"keywords": []
+		}
+	],
+	"skills": [{
+			"name": "Windows",
+			"level": "",
+			"keywords": [
+				"Word",
+				"PowerPoint",
+				"Excel",
+				"Photoshop"
+
+			]
+		}
+
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "MIS and Minor ICS (expected Spring, 2021)",
+		"studyType": "BA",
+		"startDate": "2016-08-20",
+		"endDate": "",
+		"gpa": "",
+		"courses": []
+	}],
+	"work": [{
+		"company": "Universoty of Hawaii at Manoa ICS Department",
+		"position": "Teaching Assistant",
+		"website": "",
+		"startDate": "2015-01-03",
+		"endDate": "Present",
+		"summary": "Taught Student to be proficient in Microsoft Office, Photoshop, SSH and Dreamweaver",
+		"highlights": [
+			""
+		]
+	}]
 }
