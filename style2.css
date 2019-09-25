@@ -17,15 +17,10 @@ margin-left: 75px;
 margin-right: 75px;
 }
 body {
-    color: white;
+    color: yellow;
     font-family: 'Open Sans', sans;
     margin: 10px 50px 10px 50px;
     width: 950px;
     background-color: black;
-}
-
-img {
-    float: left;
-    margin-right: 10px;
 }
 
