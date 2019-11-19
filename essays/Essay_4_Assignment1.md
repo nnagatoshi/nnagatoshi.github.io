@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Essay 4 Assigment 1
 date: 2019-11-18
 labels:
   - Assignment 1
