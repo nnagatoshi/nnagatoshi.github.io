@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: E1
+# All dates must be YYYY-MM-DD format!
+date: 2019-12-10
+labels:
+  - Technical Essay
+---
+
 The assignment was making a store website with a working login page and if they were new user then they would choose the registration page and then log in with a new user ID and email and having customers being able to confirm their password. There is no link because cyberduck did not let me upload it mine does not work completely. 
 From this assignment I learned more about how arrays work and different loops. Even if my assignment didn’t work I got the idea of how it works and how it functions. 
 I worked alone on this so when I needed help I emailed my professors or when in (kasemen) for help. I got help on my params and different loops. 
