@@ -40,8 +40,7 @@
 		{
 			"name": "Hiking",
 			"keywords": []
-		}
-	],
+		}],
 	"Skills": [{
 			"name": "Programing and Software",
 			"level": "",
@@ -52,10 +51,8 @@
 				"Java",
 				"JavaScript",
 				"HTML/SSH/CSS"
-			]
-		}
-
-	],
+			]	
+		}],
 	"Education": [{
 		"institution": "University of Hawaii, Honolulu, HI",
 		"area": "Major: MIS | Minor: ICS (expected Fall, 2022)",
@@ -102,5 +99,5 @@
 		"organization": "University of Hawaii Marching Band Leadership",
 		"startdate":"August 2017",
 		"enddate": "May 2020"
-	}]
+	}],
 }
