@@ -91,32 +91,32 @@
 		"summary": "Teaching students to be proficient in Microsoft Office programs, Photoshop/Gimp/SHH, Dreamweaver/HTML/CSS and, Python"
    	 }
     ],
-  "volunteer": [
+  "activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "Hawaii Youth Symphony",
+          "startDate": "August 2007",
+          "endDate": "May 2016"
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+      "organization": "Roosevelt High School Orchestra Leadership",
+            "startdate": "August 2012",
+            "endDate": "May 2016"
+    },
+    {
+            "organization": "Roosevelt High School Grad with Honors",
+            "startdate":"August 2012",
+            "enddate": "May 2016"
+     },
+     {
+            "organization": "University of Hawaii Marching Band",
+            "startdate":"August 2016",
+            "enddate": "May 2020"
+     }, 
+     {
+            "organization": "University of Hawaii Marching Band Leadership",
+            "startdate":"August 2017",
+            "enddate": "May 2020"
+     }
   ],
   "awards": [
     {
@@ -130,12 +130,6 @@
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
