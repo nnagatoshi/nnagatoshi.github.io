@@ -41,11 +41,20 @@
   ],
   "skills": [
     {
-      "name": "Programing and Software",
+      "name": "Software",
       "level": "",
       "keywords": [
-	      "Office Programs(Word/Excel/Acess/PowerPoint)",
-	      "Photoshop/GIMP",
+	      "Microsoft Word",
+	      "Microsoft PowerPoint",
+	      "Microsoft Excel",
+	      "Microsoft Access",
+	      "Photoshop/GIMP"
+      ]
+    },
+	  {
+      "name": "Coding Languages",
+      "level": "",
+      "keywords": [
 	      "Python",
 	      "Java",
 	      "JavaScript",
