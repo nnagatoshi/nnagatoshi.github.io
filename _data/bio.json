@@ -4,7 +4,7 @@
 		"label": "Student",
 		"picture": "https://nnagatoshi.github.io/images/NicoleNagatoshi.jpg",
 		"email": "nmnag@hawaii.edu",
-		"phone": "",
+		"phone": "(808)457-6642",
 		"website": "https://nnagatoshigithub.io",
 		"summary": "I am a UH Manoa student currently studying Managment Information Systems at Shilder, as well as studying Computer Science.",
 		"location": {
@@ -41,7 +41,7 @@
 			"name": "Hiking",
 			"keywords": []
 		}],
-	"Skills": [{
+	"skills": [{
 			"name": "Programing and Software",
 			"level": "",
 			"keywords": [
@@ -81,32 +81,5 @@
 	"Honors/Reserch":[{
 		"title": "Presenter at Media + Innovative Learning",
 		"date": "November 2020"
-	}],
-    "activities": [
-        {
-          "organization": "Hawaii Youth Symphony",
-          "startDate": "August 2007",
-          "endDate": "May 2016"
-        },
-        {
-            "organization": "Roosevelt High School Orchestra Leadership",
-            "startdate": "August 2012",
-            "endDate": "May 2016"
-          },
-          {
-            "organization": "Roosevelt High School Grad with Honors",
-            "startdate":"August 2012",
-            "enddate": "May 2016"
-          },
-          {
-            "organization": "University of Hawaii Marching Band",
-            "startdate":"August 2016",
-            "enddate": "May 2020"
-          },
-          {
-            "organization": "University of Hawaii Marching Band Leadership",
-            "startdate":"August 2017",
-            "enddate": "May 2020"
-          }
-      ]
+	}]
 }
