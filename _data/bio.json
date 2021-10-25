@@ -73,7 +73,7 @@
 			"Basic Concepts of Comp. Sci."
 		]
 	}],
-	"Work Experience": [{
+	"Work": [{
 		"company": "University of Hawaii at Manoa ICS Department",
 		"position": "Teaching Assistant",
 		"website": "",
@@ -83,23 +83,23 @@
 		
 	}],
 	"Honors/Reserch":[{
-		"name": "Presenter at Media + Innovative Learning",
+		"title": "Presenter at Media + Innovative Learning",
 		"date": "November 2020"
 	}],
-	"Extra curricular activities/Personal achievements":[{
-		"name": "Hawaii Youth Symphony",
+	"extra curricular activities":[{
+		"organization": "Hawaii Youth Symphony",
 		"startdate": "August 2007",
 		"enddate": "May 2016",
-		"name": "Roosevelt High School Orchestra Leadership",
+		"organization": "Roosevelt High School Orchestra Leadership",
 		"startdate": "August 2012",
 		"enddate": "May 2016",
-		"name": "Roosevelt High School Grad with Honors",
+		"organization": "Roosevelt High School Grad with Honors",
 		"startdate":"August 2012",
 		"enddate": "May 2016",
-		"name": "University of Hawaii Marching Band",
+		"organization": "University of Hawaii Marching Band",
 		"startdate":"August 2016",
 		"enddate": "May 2020",
-		"name": "University of Hawaii Marching Band Leadership",
+		"organization": "University of Hawaii Marching Band Leadership",
 		"startdate":"August 2017",
 		"enddate": "May 2020"
 	]}
