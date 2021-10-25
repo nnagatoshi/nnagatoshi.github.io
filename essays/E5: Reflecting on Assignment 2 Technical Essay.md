@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: E5, Reflecting on Assignment 2
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-10
