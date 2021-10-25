@@ -93,28 +93,53 @@
     ],
    "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Hawaii Youth Symphony",
+      "website": "https://hiyouthsymphony.org/",
+      "position": "Student",
+      "startDate": "2007",
+      "endDate": "2016",
+      "summary": "Learned to play music at a professional level",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Did concerts for volunteer work",
+        "Time Managment with school and making sure my skills were maintained at a high level"
       ]
     },
     {
-      "organization": "",
+      "organization": "Roosevelt High School Orchestra Leadership",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Student/Section Leader",
+      "startDate": "2012",
+      "endDate": "2016",
+      "summary": "Lead section through sectionals and concerts",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "First chair, 2012-2016",
+        "Made sure section knew music"
+      ]
+    },
+    {
+      "organization": "Roosevelt High School Grad with Honors",
+      "website": "",
+      "position": "Student",
+      "startDate": "2012",
+      "endDate": "2016",
+      "summary": "Needed at least 3.0 GPA, four years of science, math, english and history and, needed to pass at least two AP classes",
+      "highlights": [
+        "Science: Biology, Chemistry, Marine Biology, Physics",
+        "English: English 1/2, AP English for two years",
+        "Math: Algebra 1/2, Geomotry, Algebra 3/Trig",
+	"History: US History, World History, Hawaiian History, Sociology/Philosophy"
+      ]
+    },
+    {
+      "organization": "University of Hawaii Marching Band",
+      "website": "",
+      "position": "Member",
+      "startDate": "2016",
+      "endDate": "2020",
+      "summary": "Learned new music for each football game, played; at gigs, pep rallys, volleyball games, basketball games",
+      "highlights": [
+        "Member, UHMRWM, 2016-2020",
+        "Leadership, UHMRWM, 2017-2020, taught new comers how to play instument, held sectionals, made sure everyone was on time, made sure they were learning their positions on feild, made music (seldom)"
       ]
     }
   ],
