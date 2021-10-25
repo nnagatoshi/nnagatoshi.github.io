@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/JavaScriptProject.jpg
 title: Morning Brew Kakaako Website 
-permalink: projects/micromouse
+permalink: projects/morningbrew
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-10
 labels:
