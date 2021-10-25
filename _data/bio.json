@@ -83,15 +83,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+     "company": "University of Hawaii at Manoa ICS Department",
+		"position": "Teaching Assistant",
+		"website": "",
+		"startDate": "2019-01-03",
+		"endDate": "Present",
+		"summary": "Teaching students to be proficient in Microsoft Office programs, Photoshop/Gimp/SHH, Dreamweaver/HTML/CSS and, Python"
       ]
     },
     {
