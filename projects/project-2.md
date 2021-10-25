@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/java.jpg
-title: Inverse Tac Tac Toe 
+title: Inverse Tic Tac Toe 
 permalink: projects/inverse
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-05
