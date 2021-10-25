@@ -2,13 +2,13 @@
 	"basics": {
 		"name": "Nicole Nagatoshi",
 		"label": "Student",
-		"picture": "https://nmnag16.github.io/images/IMG_0742.jpeg",
+		"picture": "https://nmnag16.github.io/images/248417439_6481742051900030_1361042311293220311_n.jpg",
 		"email": "nmnag@hawaii.edu",
 		"phone": "",
-		"website": "https://nmnag16.github.io",
-		"summary": "I am a student at UH Manoa, studing MIS and a minor in ICS. I expect to graduate in Spring 2022.",
+		"website": "https://nnagatoshigithub.io",
+		"summary": "I am a UH Manoa student currently studying Managment Information Systems at Shilder, as well as Computer Science.",
 		"location": {
-			"address": "",
+			"address": "45-801 Apuakea Street",
 			"postalCode": "96744",
 			"city": "Kaneohe",
 			"countryCode": "USA",
@@ -16,15 +16,13 @@
 		},
 		"profiles": [{
 			"network": "github",
-			"username": "nmnag16",
-			"url": "http://github.com/nmnag16"
+			"username": "nnagatoshi",
+			"url": "http://github.com/nnagatoshi"
 		}]
 	},
 	"interests": [{
 			"name": "Music",
 			"keywords": [
-				"Arduino",
-				"TI MSP430"
 			]
 		},
 		{
@@ -34,37 +32,54 @@
 		{
 			"name": "Swimming",
 			"keywords": []
+		},
+		{
+			"name": "Video Games",
+			"keywords": []
+		},
+		{
+			"name": "Hiking",
+			"keywords": []
 		}
 	],
 	"skills": [{
-			"name": "Windows",
+			"name": "Programing and Software",
 			"level": "",
 			"keywords": [
-				"Word",
-				"PowerPoint",
-				"Excel",
-				"Photoshop"
-
+				"Office Programs(Word/Excel/Acess/PowerPoint)",
+				"Photoshop/GIMP",
+				"Python",
+				"Java",
+				"JavaScript",
+				"HTML/SSH/CSS"
 			]
 		}
 
 	],
 	"education": [{
 		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "MIS and Minor ICS (expected Spring, 2022)",
+		"area": "Major: MIS | Minor: ICS (expected Fall, 2022)",
 		"studyType": "BA",
 		"startDate": "2016-08-20",
-		"endDate": "",
-		"gpa": "",
-		"courses": []
+		"endDate": "Projected Fall 2022",
+		"courses": [
+			"Programming Application System",
+			"Information System Analysis & Design",
+			"Computer and Data Systems",
+			"Networking and Security",
+			"Introduction to Computer Science I",
+			"Introduction to Computer Science II",
+			"Disc. Math for Comp. Sci. I",
+			"Basic Concepts of Comp. Sci."
+		]
 	}],
 	"work": [{
 		"company": "University of Hawaii at Manoa ICS Department",
 		"position": "Teaching Assistant",
 		"website": "",
 		"startDate": "2019-01-03",
-		"endDate": "2019-12-20",
-		"summary": "Taught Student to be proficient in Microsoft Office, Photoshop, SSH and Dreamweaver",
+		"endDate": "Present",
+		"summary": "Teaching students to be proficient in Microsoft Office programs, Photoshop/Gimp/SHH, Dreamweaver/HTML/CSS and, Python",
 		"highlights": [
 			""
 		]
