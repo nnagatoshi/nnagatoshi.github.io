@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Essay 4 Assigment 1
 date: 2019-11-18
 labels:
