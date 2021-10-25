@@ -76,28 +76,37 @@
 		"website": "",
 		"startDate": "2019-01-03",
 		"endDate": "Present",
-		"summary": "Teaching students to be proficient in Microsoft Office programs, Photoshop/Gimp/SHH, Dreamweaver/HTML/CSS and, Python",
-		
+		"summary": "Teaching students to be proficient in Microsoft Office programs, Photoshop/Gimp/SHH, Dreamweaver/HTML/CSS and, Python"
 	}],
 	"Honors/Reserch":[{
 		"title": "Presenter at Media + Innovative Learning",
 		"date": "November 2020"
 	}],
-	"activities":[{
-		"organization": "Hawaii Youth Symphony",
-		"startdate": "August 2007",
-		"enddate": "May 2016",
-		"organization": "Roosevelt High School Orchestra Leadership",
-		"startdate": "August 2012",
-		"enddate": "May 2016",
-		"organization": "Roosevelt High School Grad with Honors",
-		"startdate":"August 2012",
-		"enddate": "May 2016",
-		"organization": "University of Hawaii Marching Band",
-		"startdate":"August 2016",
-		"enddate": "May 2020",
-		"organization": "University of Hawaii Marching Band Leadership",
-		"startdate":"August 2017",
-		"enddate": "May 2020"
-	}],
+    "activities": [
+        {
+          "organization": "Hawaii Youth Symphony",
+          "startDate": "August 2007",
+          "endDate": "May 2016"
+        },
+        {
+            "organization": "Roosevelt High School Orchestra Leadership",
+            "startdate": "August 2012",
+            "endDate": "May 2016"
+          },
+          {
+            "organization": "Roosevelt High School Grad with Honors",
+            "startdate":"August 2012",
+            "enddate": "May 2016"
+          },
+          {
+            "organization": "University of Hawaii Marching Band",
+            "startdate":"August 2016",
+            "enddate": "May 2020"
+          },
+          {
+            "organization": "University of Hawaii Marching Band Leadership",
+            "startdate":"August 2017",
+            "enddate": "May 2020"
+          }
+      ]
 }
