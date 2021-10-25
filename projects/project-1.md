@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/JavaScriptProject.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-12-10
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Web Development
+  - JavaScript
+  - SQL
+summary: My partner and I were tasked with making a new website for a local coffee shop. The requierments were that it had to have a login page, stamp card and had to look and feel like that company were going to use our code for their actual website. 
 ---
 
 <div class="ui small rounded images">
