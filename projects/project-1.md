@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/JavaScriptProject.jpg
-title: Micromouse
+title: Morning Brew Kakaako Website 
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-10
