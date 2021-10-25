@@ -14,11 +14,13 @@
 			"countryCode": "USA",
 			"region": "Hawaii"
 		},
-		"profiles": [{
+		"profiles": [
+			{
 			"network": "github",
 			"username": "nnagatoshi",
 			"url": "http://github.com/nnagatoshi"
-		}]
+		}
+		]
 	},
 	"Interests": [{
 			"name": "Music",
