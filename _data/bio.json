@@ -1,4 +1,4 @@
-{
+
   "basics": {
     "name": "Nicole Nagatoshi",
     "label": "Student",
@@ -6,7 +6,7 @@
     "email": "nmnag@hawaii.edu",
     "phone": "808-457-6642",
     "website": "https://nnagatoshigithub.io",
-    "summary": "I am a UH Manoa student currently studying Managment Information Systems at Shilder, as well as studying Computer Science.",
+    "summary": "I am a UH Manoa student currently studying Management Information Systems at Shidler, as well as studying Computer Science.",
     "location": {
       "address": "45-801 Apuakea Street",
 			"postalCode": "96744",
@@ -101,7 +101,7 @@
       "summary": "Learned to play music at a professional level",
       "highlights": [
         "Did concerts for volunteer work",
-        "Time Managment with school and making sure my skills were maintained at a high level"
+        "Time Management with school and making sure my skills were maintained at a high level"
       ]
     },
     {
@@ -122,11 +122,11 @@
       "position": "Student",
       "startDate": "2012",
       "endDate": "2016",
-      "summary": "Needed at least 3.0 GPA, four years of science, math, english and history and, needed to pass at least two AP classes",
+      "summary": "Needed at least 3.0 GPA, four years of science, math, English and history and, needed to pass at least two AP classes",
       "highlights": [
         "Science: Biology, Chemistry, Marine Biology, Physics",
         "English: English 1/2, AP English for two years",
-        "Math: Algebra 1/2, Geomotry, Algebra 3/Trig",
+        "Math: Algebra 1/2, Geometry, Algebra 3/Trig",
 	"History: US History, World History, Hawaiian History, Sociology/Philosophy"
       ]
     },
@@ -139,7 +139,7 @@
       "summary": "Learned new music for each football game, played; at gigs, pep rallys, volleyball games, basketball games",
       "highlights": [
         "Member, UHMRWM, 2016-2020",
-        "Leadership, UHMRWM, 2017-2020, taught new comers how to play instument, held sectionals, made sure everyone was on time, made sure they were learning their positions on feild, made music (seldom)"
+        "Leadership, UHMRWM, 2017-2020, taught newcomers how to play instrument, held sectionals, made sure everyone was on time, made sure they were learning their positions on field, made music (seldom)"
       ]
     }
   ],
@@ -158,3 +158,4 @@
     }
   ]
 }
+
