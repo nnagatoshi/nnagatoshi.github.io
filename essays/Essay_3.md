@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Essay 3
 date: 2019-11-18
 labels:
