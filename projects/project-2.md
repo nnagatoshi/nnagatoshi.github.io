@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/java.jpg
+title: Inverse Tac Tac Toe 
+permalink: projects/inverse
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-12-05
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - GUI
+  - Game
+summary: In ICS 111, I was tasked with writing inverse Tic Tac Toe. The goal of the game was to try and make your oponent score three in a row. We also had to implement a interface, score keeper and a reset. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
