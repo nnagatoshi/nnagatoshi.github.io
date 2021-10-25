@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Checkpoint Post - Assignment 4
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-11
