@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: images/teaching.jfif
 published: true
 title: ICS 101 TA
 # All dates must be YYYY-MM-DD format!
