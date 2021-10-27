@@ -13,12 +13,6 @@ labels:
 summary: In ICS 111, I was tasked with writing inverse Tic Tac Toe. The goal of the game was to try and make your oponent score three in a row. We also had to implement a interface, score keeper and a reset. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In my ICS 111 class we were tasked with making a game and I choose inverse Tic Tac Toe. The goal of the game being that you had to get your opponent to get three in a row. I was unable to put together the parts but what I was able to complete was having onclick events to the interface. One of the difficulties I was encountering was I had to rewrite the code multiple times because I kept making normal Tic Tac Toe. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
