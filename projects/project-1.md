@@ -18,6 +18,7 @@ Our project was to develop a website for a company in Hawaii called Morning Brew
 This project uses SQL to store all the login information and JavaScript/HTML/CSS to create the website. 
 
 Code: <a href="https://github.com/nnagatoshi/nnagatoshi.github.io/tree/master/test"><i class="large github icon"></i>GitHub file containing all the code</a>
+<br>
 Video: <a href="https://www.youtube.com/watch?v=o7Stf9bsP8g"><i class="large github icon"></i>Virtual Tour</a>
 
 
