@@ -6,9 +6,8 @@ title: TA Example Website
 permalink: projects/HTML_Example
 # All dates must be YYYY-MM-DD format!
 labels:
-  -HTML
-  -CSS
-  -Website
+  - HTML/CSS
+  - Website
 summary: A HTML/CSS website example that I used for my ICS 101 Job
 ---
 
