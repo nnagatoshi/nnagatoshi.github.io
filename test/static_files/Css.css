@@ -1,0 +1,537 @@
+header{
+    background-image: url(./images/Morning-Brew-Food-Shots-2788.jpg);
+    background-position: .5px;
+    width: 100%;
+    height: 220px;
+    text-align: center;
+    font-family: fantasy,cursive,Brush Script MT,Brush Script MT,sans-serif;
+    /*background: rgba(255,255,255,.5);*/
+    font-size: 65px;
+    overflow: hidden;
+    filter: alpha(opacity=50);
+    color: white;
+}
+
+.logo{
+  width: 120px;
+}
+
+body {
+    font-family: Arial, Helvetica,Brush Script MT ,Brush Script MT,sans-serif;
+    background-image: url(./images/body.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+* {box-sizing: border-box;}
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+/*.open-button {
+  background-color: #E5DACD;
+  color: black;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  /*position: fixed;
+  bottom: 23px;
+  width: 280px;
+  font-family: cursive,fantasy, sans-serif;
+  font-size: medium;
+}
+
+/* The popup form - hidden by default 
+.form-popup {
+  display: none;
+  /*position: fixed;
+  bottom: 0;
+  right: 215px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+  width: 280px;
+  font-size: medium;
+}
+
+
+/* Add styles to the form container 
+.form-container {
+  max-width: 350px;
+  padding: 10px;
+  background-color: white;
+  font-family: fantasy, cursive, sans-serif;
+}
+
+/* Full-width input fields 
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something 
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+  position: relative;
+}
+  .button{
+    border: none;
+    color: black;
+    padding: 16px 20px;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+    font-family: cursive,fantasy, sans-serif;
+    display: block;
+    position: relative;
+    font-size: medium;
+   
+}
+/* Set a style for the submit/login button 
+.form-container .btn:hover {
+  background-color: rgb(138, 143, 138);
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+  font-family: cursive,fantasy, sans-serif;
+  display: block;
+  position: relative;
+}
+
+/* Add a red background color to the cancel button 
+.form-container .cancel:hover {
+  background-color: rgb(138, 143, 138);
+  font-family: cursive,fantasy, sans-serif;
+  display: block;
+  position: relative;
+}
+
+/* Add some hover effects to buttons 
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: cursive,fantasy, sans-serif;
+    font-size: 40px;
+}
+
+li {
+  float: right;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color:red;
+}
+*/
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  top: 0;
+  width: 100%;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT, sans-serif;
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.navbar a:hover {
+  color:red;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
+#container{
+    background-color:black;
+    opacity: 0.8;
+    width: 250px;
+    font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+
+}
+
+#menu{
+    height: 100px;
+}
+
+
+
+/*login and registration css*/
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  border: none;
+    color: black;
+    padding: 16px 20px;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+    font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+    display: block;
+    position: relative;
+    font-size: medium;
+}
+
+button:hover {
+  background-color: rgb(138, 143, 138);
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  display: block;
+  position: relative;
+}
+
+/* Extra styles for the cancel button */
+
+
+/* Center the image and position the close button */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+  width: 500px;
+  border-radius: 100px;
+}
+
+.container {
+  padding: 28px;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+}
+
+span.psw {
+  float: right;
+  padding-top: -3px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+  margin:auto;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  border: 1px solid #888;
+  width: 52%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(1)}
+}
+  
+@keyframes animatezoom {
+  from {transform: scale(0)} 
+  to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin: auto;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  border: none;
+    color: black;
+    padding: 16px 20px;
+    width: 100%;
+    margin: auto;
+    opacity: 0.8;
+    font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+    display: block;
+    position: relative;
+    font-size: medium;
+}
+
+.registerbtn:hover {
+  background-color: rgb(138, 143, 138);
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin: auto;
+  opacity: 0.8;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  display: block;
+  position: relative;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+  width: 975px;
+}
+
+.reg{
+  background-color: rgba(255,255,255,.8);
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  margin: auto;
+  max-width: 1000px;
+  padding: 10px;
+}
+
+.reg2{
+  background-color: rgba(255,255,255,.8);
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  margin: auto;
+  max-width: 1000px;
+  padding: 10px;
+}
+
+/*some general display items*/
+.display{
+  background-color: rgba(255,255,255,.8);
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  height: 100%;
+}
+
+h1{
+  font-family: fantasy,cursive,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 50px;
+}
+
+h2{
+  font-family: fantasy,cursive,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 30px;
+}
+
+.home {
+  background-image: url(./images/home.jpg);
+    background-position: .5px;
+    width: 100%;
+    height: 935px;
+    text-align: center;
+    font-family: fantasy,cursive,Brush Script MT,Brush Script MT,sans-serif;
+    /*background: rgba(255,255,255,.5);*/
+    font-size: 90px;
+    overflow: hidden;
+    filter: alpha(opacity=50);
+    color: white;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+p{
+  text-align: center;
+  width: 700px;
+  margin:auto;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+}
+
+.column2 {
+  float: left;
+  width: 33%;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+  text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.icon{
+  width: 35px;
+  height: 35px;
+}
+
+.contact{
+  text-align: left;
+  width: 700px;
+  margin:auto;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MTsans-serif;
+  font-size: 20px;
+}
+
+.media{
+  width: 100px;
+  height: 100px;
+}
+
+.card {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.height
+{
+  height: 100%;
+}
+
+
+/*Menu CSS*/
+
+.menuhead1{
+  background: #333333;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 60px;
+  text-align: left;
+  color: white;
+  width: 75%;
+  height: 90px;
+ text-indent:10%;
+ opacity: 90%;
+}
+
+.menuhead2{
+  background: #333333;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 60px;
+  color: white;
+  width: 75%;
+  height: 90px;
+  text-indent:-30%;
+  float:right;
+  opacity: 90%;
+}
+
+.dispic1 {
+  width: 40%;
+  height: 40%;
+  float: left;
+  margin: 58px;
+}
+
+.dispic2 {
+  width: 40%;
+  height: 40%;
+  float: right;
+  margin: 58px;
+}
+
+.menubody1 {
+  text-align: left;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 40px;
+  width: 100%;
+}
+
+.menubody2 {
+  text-align: right;
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 40px;
+  width: 100%;
+}
+
+.discription{
+  font-family: cursive,fantasy,Brush Script MT,Brush Script MT,sans-serif;
+  font-size: 20px;
+}
+

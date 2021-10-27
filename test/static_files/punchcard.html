@@ -1,0 +1,107 @@
+<script scr="./punchcard.js" type="text/javescript"></script>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="Css.css" rel="stylesheet" type="text/css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Logged in</title>
+
+
+</head>
+<div id="menu">
+
+    <div class="navbar">
+        <img src="./images/mb-white-logo.png" alt="mb-white-logo" class="logo">
+
+        <a href="./index.html">Logout</a>
+        <a href="./contactlog.html">Contact</a>
+        <a href="./soicalmedialog.html">Social Media</a>
+        <a href="./menulog.html">Menu</a>
+        <a href="./punchcard.html" style="color: red">Points</a>
+        <a href="LoginInvoice.html" >Info</a>
+        <a href="./indexlog.html">Home</a>
+    </div>
+</div>
+<header>
+    Welcome Back (name)
+
+</header>
+</div>
+
+<body>
+    <form name="punchcard_form" action="points" method="POST">
+        <br>
+
+        <div class="display">
+            <br>
+            <Section class="card"><img onclick="changeImage()" id="movingCards" class="card"
+                    src="./images/StampCardNon.jpg" /></Section>
+            <script>
+                var card = [
+                    {
+                        "title": "New Punch card",
+                        "image": "./images/StampCardNon.jpg"
+                    },
+                    {
+                        "title": "One Punch",
+                        "image": "./images/StampCardOne.jpg"
+                    },
+                    {
+                        "title": "Two Punch",
+                        "image": "./images/StampCardTwo.jpg"
+                    },
+                    {
+                        "title": "Three Punch",
+                        "image": "./images/StampCardThree.jpg"
+                    },
+                    {
+                        "title": "Four Punch",
+                        "image": "./images/StampCardFour.jpg"
+                    },
+                    {
+                        "title": "Five Punch",
+                        "image": "./images/StampCardFive.jpg"
+                    },
+                    {
+                        "title": "Six Punch",
+                        "image": "./images/StampCardSix.jpg"
+                    },
+                    {
+                        "title": "Seven Punch",
+                        "image": "./images/StampCardSeven.jpg"
+                    },
+                    {
+                        "title": "Eight Punch",
+                        "image": "./images/StampCardEight.jpg"
+                    },
+                    {
+                        "title": "Nine Punch",
+                        "image": "./images/StampCardNine.jpg"
+                    },
+                    {
+                        "title": "FREE",
+                        "image": "./images/StampCardFull.jpg"
+                    },
+                ];
+                let index = 0;
+                function changeImage() {
+                    if (index == 10) {
+                        index = 0;
+                    } else {
+                        index += 1;
+                    }
+                    document.getElementById("movingCards").src = card[index].image;
+                }
+            </script>
+            <br>
+        </div>
+
+
+</body>
+</form>
+
+</html>
