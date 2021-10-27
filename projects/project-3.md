@@ -5,6 +5,7 @@ type: HTML/CSS
 image: images/HTML.png
 title: TA Example Website
 permalink: projects/HTML_Example
+published: true
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-05
 labels:
