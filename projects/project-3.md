@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HTML.png
+image: images/HTML.jpg
 title: TA Example Website
 permalink: project/example
 # All dates must be YYYY-MM-DD format!
