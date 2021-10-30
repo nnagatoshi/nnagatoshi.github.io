@@ -20,4 +20,4 @@ Links:
 <br>
 <a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ITM%20353%20Assignment/Venture%20Presentation.pdf"><i class="large github icon"></i>Presentation</a>
 <br>
-<a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ClickBoard.java"><i class="large github icon"></i>Mock Website</a>
+<a href="https://www.youtube.com/watch?v=lDRVHM_iL1c"><i class="large github icon"></i>Mock Website</a>
