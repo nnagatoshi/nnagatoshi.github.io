@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/HTML.png
 title: TA Example Website
-permalink: https://www2.hawaii.edu/~nmnag/me/dreamweaver%20example.html
+permalink: 
 # All dates must be YYYY-MM-DD format!
 labels:
   - HTML/CSS
