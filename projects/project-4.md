@@ -9,6 +9,7 @@ date: 2020-01-21
 labels:
   - Business Strategy
   - Project Management
+  - App Development 
 summary: My group and I were tasked with making a mobile app. 
 ---
 We decided to make an app about camping in the national parks. We had to make a proposal for the app and pretend like we were presenting this to a tech company. I was tasked with the technology problem solving, for example, figuring out how to track the GPS signal within the park. We also planned on having a website attached to the app so it would be easy to access the database. 
