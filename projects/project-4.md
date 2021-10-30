@@ -18,6 +18,6 @@ Links:
 <br>
 <a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ITM%20353%20Assignment/Venture%20Deliverable.pdf"><i class="large github icon"></i>Essay</a>
 <br>
-<a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ClickBoard.java"><i class="large github icon"></i>Presentation</a>
+<a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ITM%20353%20Assignment/Venture%20Presentation.pdf"><i class="large github icon"></i>Presentation</a>
 <br>
-<a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ClickBoard.java"><i class="large github icon"></i>Mock Websitea>
+<a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ClickBoard.java"><i class="large github icon"></i>Mock Website</a>
