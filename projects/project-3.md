@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/HTML.png
 title: TA Example Website
-permalink: project/
+permalink: project/example
 # All dates must be YYYY-MM-DD format!
 labels:
   - HTML/CSS
