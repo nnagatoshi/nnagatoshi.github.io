@@ -16,7 +16,7 @@ We decided to make an app about camping in the national parks. We had to make a 
 Links: 
 <a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ITM%20353%20Assignment/01_21_19.pdf"><i class="large github icon"></i>Project timeline</a>
 <br>
-<a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ClickBoard.java"><i class="large github icon"></i>Essay</a>
+<a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ITM%20353%20Assignment/Venture%20Deliverable.pdf"><i class="large github icon"></i>Essay</a>
 <br>
 <a href="https://github.com/nnagatoshi/nnagatoshi.github.io/blob/master/ClickBoard.java"><i class="large github icon"></i>Presentation</a>
 <br>
