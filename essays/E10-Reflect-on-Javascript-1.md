@@ -8,7 +8,11 @@ labels:
   - Assignment 1
   - technical essay
 ---
-Essay 4 (assignment 1)
+
+<img class="ui medium right floated rounded image" src="../images/SC2.png">
+<br>
+
+<h1>E10: Reflect on Javascript 1<h1>
 
 JavaScript has been enjoyable, but it also has been a challenge. Four semesters ago (about two years) I took a class on JavaScript and HTML/CSS. It has been awhile since I looked at JavaScript so I would like to start again and learn. Although a lot of it so far is things I do remember, I know once the semester continues it will get harder and I am looking forward to learning more about JavaScript. 
 	In comparison with other languages JavaScript reminds me of Java and in a way C. Java and JavaScript to me are very similar, they format a lot of things the same for example, loops, objects, if statements. The way it differs is in the declaration of variables. However, I think JavaScripts way of declaring variables is much simpler, easier to understand and less to worry about. In Java I would have to convert viables if it was an int first and I needed it to become a string. But with JavaScript I can declare let/var and it is the same. 
