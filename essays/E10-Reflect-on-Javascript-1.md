@@ -1,0 +1,16 @@
+---
+layout: essay
+type: essay
+published: true
+title: E10: Reflect on Javascript 1
+date: 2022-08-30
+labels:
+  - Assignment 1
+  - technical essay
+---
+Essay 4 (assignment 1)
+
+JavaScript has been enjoyable, but it also has been a challenge. Four semesters ago (about two years) I took a class on JavaScript and HTML/CSS. It has been awhile since I looked at JavaScript so I would like to start again and learn. Although a lot of it so far is things I do remember, I know once the semester continues it will get harder and I am looking forward to learning more about JavaScript. 
+	In comparison with other languages JavaScript reminds me of Java and in a way C. Java and JavaScript to me are very similar, they format a lot of things the same for example, loops, objects, if statements. The way it differs is in the declaration of variables. However, I think JavaScripts way of declaring variables is much simpler, easier to understand and less to worry about. In Java I would have to convert viables if it was an int first and I needed it to become a string. But with JavaScript I can declare let/var and it is the same. 
+	Athletic software engineering so far has been hard. I think it may be attributed to the time from when I took ICS 211 to now plus that I did ICS 212 last semester and Dart/Flutter over summer for my internship. So the thought process isn't what I am struggling with, right now I'm confusing languages. That being said, the WODs have been a great help to make sure I am focused on JavaScript and are helping me problem solve and code faster. This style of learning is stressful because of all the close deadlines and learning a new language so fast, but I am really enjoying the challenge. I can’t say how well I will do with all the assignments and in-class WODs since it still takes me time to code but I enjoy it and will try my best nonetheless. 
+
