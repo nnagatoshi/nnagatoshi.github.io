@@ -9,7 +9,7 @@ labels:
   - technical essay
 ---
 
-<img class="ui medium right floated rounded image" src="../images/SC2.png">
+<img class="ui medium right floated rounded image" src="../images/JS.png">
 <br>
 
 <h1>E10: Reflect on Javascript 1<h1>
