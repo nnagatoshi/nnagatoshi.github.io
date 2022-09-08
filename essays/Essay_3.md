@@ -18,4 +18,9 @@ The “not smart way” question was as follows;
 Recently I was looking through some website's code, and saw that every <div> had a class clearfix. After a quick Google search, I learned that it is for IE6 sometimes, but what actually is a clearfix? Could you provide some examples of a layout with a clearfix, compared to a layout without a clearfix?
 Although this person says they googled it, it seems like they didn’t google the right things. Since the tags were HTML, css, Layout, cross-browser and clearfix. If you know HTML/CSS div’s are followed by a class however you don’t need a clearfix class. Infact for HTML/CSS you can name the classes whatever you want and as long as the div class is the same as the CSS class, and presuming all the parameters in the CSS work, it should be okay. Also if you search for clearfix on W3Schools there is a page dedicated to what a clearfix is and shows examples of it in the css, as well as side by side comparisons of clearfix compared to formats without clearfix. One of the items Raymond mentions was about “choosing an off topic forum” and in this case “cross-browser” should not be needed in one of the forum tags. Also it is a very elementary question and like mentioned before can be searched fairly easily even if one were to put it into a google search. 
 
- 
+Stackoverflow Questions:
+<br>
+<a href="https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it"><i class="large github icon"></i>"smart way"</a>
+<br>
+<a href="https://stackoverflow.com/questions/8554043/what-is-a-clearfix"><i class="large github icon"></i>"not smart way"</a>
+<br>
