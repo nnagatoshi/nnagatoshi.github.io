@@ -81,19 +81,26 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-		"area": "Major: MIS",
+		"area": "Management Information Systems (MIS) & Computer Science (ICS)",
 		"studyType": "BA",
 		"startDate": "2016-08-20",
 		"endDate": "2022-12-16",
 		"courses": [
-			"Programming Application System",
-			"Information System Analysis & Design",
-			"Computer and Data Systems",
-			"Networking and Security",
-			"Introduction to Computer Science I",
-			"Introduction to Computer Science II",
-			"Disc. Math for Comp. Sci. I",
-			"Basic Concepts of Comp. Sci."
+			"Programming Application System (MIS)",
+			"Information System Analysis & Design (MIS)",
+			"Computer and Data Systems (MIS)",
+			"Networking and Security (MIS)",
+			"Introduction to Computer Science I (ICS)",
+			"Introduction to Computer Science II (ICS)",
+			"Disc. Math for Comp. Sci. I (ICS)",
+			"Basic Concepts of Comp. Sci. (ICS)",
+			"Computer and Data Systems (MIS)",
+			"Networking and Security (MIS)",
+			"Project Management (MIS/ICS),
+			"Security and Trust I (ICS)",
+			"Program Structure (ICS)",
+			"Software Engineering I (ICS)",
+			"Computer Project (ICS)"
       ]
     }
   ],
