@@ -19,7 +19,7 @@
         "network": "github",
 			"username": "nnagatoshi",
 			"url": "http://github.com/nnagatoshi"
-      }
+      },
  {
         "network": "LinkedIn",
 			"username": "Nicole Nagatoshi",
@@ -67,6 +67,15 @@
 	      "HTML/SSH/CSS",
 	      "C/C++"
       ]
+    },
+	  {
+      "name": "IDE",
+      "level": "",
+      "keywords": [
+	      "VSCode",
+	      "IntelliJ",
+	      "Eclipse"
+      ]
     }
   ],
   "education": [
@@ -96,7 +105,7 @@
 		"startDate": "2019-01-03",
 		"endDate": "Present",
 		"summary": "Teaching students to be proficient in Microsoft Office programs, Photoshop/Gimp/SHH, Dreamweaver/HTML/CSS and, Python"
-   	 }
+   	 },
 	  {
      "company": "Pearl Harbor Navy Base / X-Force",
 		"position": "Contract Worker/Internship",
